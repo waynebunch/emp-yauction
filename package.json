@@ -1,0 +1,19 @@
+{
+  "name": "auction",
+  "version": "0.0.1",
+  "description": "Emp[]y Auction Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynebunch/emp-yauction.git"
+  },
+  "author": "Wayne Bunch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waynebunch/emp-yauction/issues"
+  },
+  "homepage": "https://github.com/waynebunch/emp-yauction#readme"
+}
